@@ -1,8 +1,5 @@
 # [387. First Unique Character in a String](https://leetcode.com)
 
-![Difficulty: Easy](https://img.shields.io)
-![Topic: String](https://img.shields.io)
-
 ## 📝 Description
 The objective is to find the index of the first character in a string that does not repeat anywhere else. If every character repeats, return `-1`.
 
